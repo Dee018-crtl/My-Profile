@@ -1,0 +1,7 @@
+body,h1{margin:0}*{box-sizing:border-box}body{font-family:Arial,sans-serif;
+background:hsl(222, 49%, 42%);color: #333;padding:20px}header{text-align:center;
+margin-bottom:20px}.profile{max-width:900px;margin:0 auto;
+background:#fff;padding:18px;border-radius:8px;
+box-shadow:0 6px 18px rgba(0,0,0,.06)}
+h1{color:#0e6fff}.tagline{color:#666;margin-top:4px}#demo{margin-top:16px}
+#tasks{margin-top:8px}@media (max-width:600px){.profile{padding:20px}}
